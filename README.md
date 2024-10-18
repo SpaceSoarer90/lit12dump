@@ -6,4 +6,5 @@
 - [ ] Oct 23-24  | finalize assets (refer to game prototype)
 ### Aseprite Download Link
 if you have questions on how to use install this just @ Quintus in the Design Comm GC.
+
 `https://drive.google.com/file/d/1G2FBypbfUCDvXUeNDDvs23ucTXm8Wk9t/view?usp=drive_link`
