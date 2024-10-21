@@ -1,4 +1,11 @@
 # lit12dump
+## Technical Committee
+### Tasks
+- [ ] "Item Acquired! message"
+    - set the "dim" option to go bottom middle
+    - 
+- [ ] set up git repository
+- [ ] 
 ## Design Committee
 ### Notes!
 - Screen Resolution (subject to changes)
@@ -7,8 +14,8 @@
     > 32x32
 
 ### Due Dates
-- [ ] Oct 19     | assigned task from the meeting
-- [ ] Oct 19-20  | draft assets for tech comm.
+- [x] Oct 19     | assigned task from the meeting
+- [x] Oct 19-20  | draft assets for tech comm.
 - [ ] Oct 23-24  | finalize assets (refer to game prototype)
 
 ### Aseprite Download Link
