@@ -8,10 +8,10 @@
 - [ ] 
 
 ### Useful Links
-- plugins
-    - https://galvs-scripts.com/
-- sample games
-
+- plugins:
+    https://galvs-scripts.com/
+- git install guide: 
+    https://www.caspergaming.com/learn/pdf/CGL-git.pdf
 
 ## Design Committee
 ### Notes!
