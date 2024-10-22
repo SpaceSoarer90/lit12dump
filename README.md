@@ -1,11 +1,16 @@
 # lit12dump
 ## Technical Committee
 ### Tasks
-- [ ] "Item Acquired! message"
+- [x] "Item Acquired! message"
     - set the "dim" option to go bottom middle
     - 
 - [ ] set up git repository
 - [ ] 
+
+### Useful Links
+- plugins
+    - https://galvs-scripts.com/
+- sample games
 
 
 ## Design Committee
