@@ -1,18 +1,4 @@
 # lit12dump
-## Technical Committee
-### Tasks
-- [x] "Item Acquired! message"
-    - set the "dim" option to go bottom middle
-    - 
-- [ ] set up git repository
-- [ ] 
-
-### Useful Links
-- plugins:
-    https://galvs-scripts.com/
-- git install guide: 
-    https://www.caspergaming.com/learn/pdf/CGL-git.pdf
-
 ## Design Committee
 ### Notes!
 - Screen Resolution (subject to changes)
@@ -27,5 +13,3 @@ if you have questions on how to use install this just @ Quintus in the Design Co
 
 ### Useful Links
 - https://www.spriters-resource.com/
-
-## Storyboarding Committee
