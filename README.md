@@ -2,7 +2,7 @@
 ## Design Committee
 ### Notes!
 - Screen Resolution (subject to changes)
-    > 1280x720
+    > 1224x689
 - Tileset Resolution
     > 32x32
 
